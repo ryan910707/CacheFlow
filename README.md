@@ -1,6 +1,14 @@
-# Local Storage Manager
+# CacheFlow: Enhancing Data Flow Efficiency in Serverless Computing by Local Caching
 
-## Deploy to knative and kubernetes
+## Description
+
+Paper accepted in CLOSER 2024.
+
+https://www.scitepress.org/Papers/2024/126886/126886.pdf
+
+## Usage
+
+### Deploy to knative and kubernetes
 
 Configure knative settings
 ```bash=
@@ -20,7 +28,7 @@ Deploy with the script
 bash deploy.sh
 ```
 
-## Requests to application
+### Sample Requests
 
 ```bash=
 # Force remote

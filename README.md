@@ -2,7 +2,7 @@
 
 ## Description
 
-Paper accepted in CLOSER 2024.
+Paper accepted in [CLOSER 2024](https://www.insticc.org/node/TechnicalProgram/closer/2024/presentationDetails/126886).
 
 https://www.scitepress.org/Papers/2024/126886/126886.pdf
 
